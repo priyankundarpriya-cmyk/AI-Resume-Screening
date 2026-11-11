@@ -1,16 +1,9 @@
-## Project Screenshots
+![Project Cover](./Project_Cover.jpeg)
 
-### 1. Project Cover
-![Project Cover](Project_Cover.jpeg)
+![Project Code](./Project_Code.png)
 
-### 2. Project Code
-![Project Code](Project_Code.png)
+![Dataset](./Dataset.png)
 
-### 3. Dataset
-![Dataset](Dataset.png)
+![Model Evaluation](./Confusion_Matrix.png)
 
-### 4. Model Evaluation
-![Confusion Matrix](Confusion_Matrix.png)
-
-### 5. Prediction Output
-![Prediction Output](Prediction_Output.jpeg)
+![Prediction Output](./Prediction_Output.jpeg)

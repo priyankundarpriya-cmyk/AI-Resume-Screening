@@ -1,7 +1,7 @@
 ## Project Screenshots
 
 ### 1. Project Cover
-![Project Cover](Screenshots/Project_cover.png)
+![Project Cover](Screenshots/Project_Cover.jpeg)
 
 ### 2. Dataset
 ![Dataset](Screenshots/Dataset.png)

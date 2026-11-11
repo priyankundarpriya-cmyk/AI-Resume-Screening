@@ -1,1 +1,20 @@
-This project screens resumes using machine learning
+## Project Screenshots
+
+### 1. Project Cover
+![Project Cover](Screenshots/Project_cover.png)
+
+### 2. Dataset
+![Dataset](Screenshots/Dataset.png)
+
+### 3. Prediction Code
+![Projrct Code](Screenshots/Project_code.png)
+
+### 4. Prediction Output
+![Project Output](Screenshots/Projecct_output.jpeg)
+
+### 5. Confusion Matrix
+![Confusion Matrix](Screenshots/Confusion_Matrix.png)
+
+## Author
+*Priya N kundar*
+BCA Final Year Student

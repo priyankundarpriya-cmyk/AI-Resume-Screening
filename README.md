@@ -7,10 +7,10 @@
 ![Dataset](Screenshots/Dataset.png)
 
 ### 3. Prediction Code
-![Projrct Code](Screenshots/Project_code.png)
+![Projrct Code](Screenshots/Project_Code.png)
 
 ### 4. Prediction Output
-![Project Output](Screenshots/Projecct_output.jpeg)
+![Project Output](Screenshots/Projecct_Output.jpeg)
 
 ### 5. Confusion Matrix
 ![Confusion Matrix](Screenshots/Confusion_Matrix.png)

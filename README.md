@@ -76,7 +76,6 @@ Install the required Python libraries:
 
 pip install pandas numpy matplotlib scikit-learn imbalanced-learn joblib
 
-9. How to Run the Project
 
 1. Clone or download the repository.
 2. Open the project folder in VS Code.
@@ -86,16 +85,13 @@ pip install pandas numpy matplotlib scikit-learn imbalanced-learn joblib
 6. Run the notebook cells.
 7. Enter candidate details.
 8. View the prediction result.
-
+9. How to Run the Project
 10. Project Purpose
+11. Author
 
 This project demonstrates the application of machine learning in recruitment. It helps analyze candidate information and predict suitability through a classification model.
 
-11. Author
 
-Priya N
-
-BCA Final Year Student
 
 GitHub: "priyankundarpriya-cmyk" (https://github.com/priyankundarpriya-cmyk)
 

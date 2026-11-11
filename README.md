@@ -10,7 +10,7 @@
 ![Projrct Code](Screenshots/Project_Code.png)
 
 ### 4. Prediction Output
-![Project Output](Screenshots/Project_Output.jpeg)
+![Project Output](Screenshots/Prediction_Output.jpeg)
 
 ### 5. Confusion Matrix
 ![Confusion Matrix](Screenshots/Confusion_Matrix.png)
